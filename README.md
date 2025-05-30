@@ -9,3 +9,4 @@ Heroes coded, merged conflicts, and lived happily ever `push`.
 🌿 Each branch had its own name.  
 ⚔️ We might encounter merge conflicts.
 "This is my first modification" 
+"This is my second modification" 
