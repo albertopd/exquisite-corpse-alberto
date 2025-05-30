@@ -10,3 +10,4 @@ Heroes coded, merged conflicts, and lived happily ever `push`.
 ⚔️ We might encounter merge conflicts.
 "This is my first modification" 
 "This is my second modification" 
+"This is my third modification" 
