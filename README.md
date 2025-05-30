@@ -13,4 +13,7 @@ Heroes coded, merged conflicts, and lived happily ever `push`.
 💻 We learned how to use Git.  
 🌿 Each branch had its own name.  
 ⚔️ We might encounter merge conflicts.
-main
+
+"This is my first modification" 
+"This is my second modification" 
+"This is my third modification" 
